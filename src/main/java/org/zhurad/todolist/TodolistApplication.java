@@ -12,3 +12,14 @@ public class TodolistApplication {
 	
 	}
 }
+
+
+/**
+     * acessos:
+	 * 
+	 * http://localhost:8080/users/
+	 * http://localhost:8080/tasks/
+	 * http://localhost:8080/tasks/{Id} 
+	 * Docker desbilitado por falta de ambiente de deploy
+	 * 
+     */
